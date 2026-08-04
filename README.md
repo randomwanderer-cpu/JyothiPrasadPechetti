@@ -14,7 +14,7 @@
 
 ### 👋 About Me
 
-I'm Jyothi — a Data Analyst with **8+ years of experience** across healthcare, insurance, and consulting, currently delivering BI & analytics solutions for **Cigna Healthcare** as a consultant through TCS. I turn messy, high-stakes data (think claims, eligibility, PHI) into dashboards and pipelines that people actually trust.
+I'm Jyothi Prasad — a Data Analyst with **8+ years of experience** across healthcare, insurance, and consulting, currently delivering BI & analytics solutions for **Cigna Healthcare** as a consultant through TCS. I turn messy, high-stakes data (think claims, eligibility, PHI) into dashboards and pipelines that people actually trust.
 
 - 🔭 Currently building **Databricks pipelines on the Medallion Architecture** (PySpark + Auto Loader) and deepening my AWS cloud skills
 - ⚡ Self-driven transition in progress: **Data Analyst → Data Engineer**
